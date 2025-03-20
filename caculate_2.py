@@ -5,8 +5,7 @@ def sum(x,y):
     return x+y
 
 def mul(a,b):
-    return x*y
+    return a*b
 
 def div(c,d):
     return c/d
-    return x+y
