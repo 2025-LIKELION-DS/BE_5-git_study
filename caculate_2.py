@@ -6,3 +6,6 @@ def sum(x,y):
 
 def mul(a,b):
     return x*y
+
+def div(c,d):
+    return c/d
